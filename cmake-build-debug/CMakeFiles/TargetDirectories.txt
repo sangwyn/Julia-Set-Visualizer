@@ -1,0 +1,3 @@
+/home/oleg/coding/praks/algebra_fractal/cmake-build-debug/CMakeFiles/algebra_fractal.dir
+/home/oleg/coding/praks/algebra_fractal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oleg/coding/praks/algebra_fractal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
